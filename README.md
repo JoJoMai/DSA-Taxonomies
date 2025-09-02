@@ -1,4 +1,4 @@
-# DSA Practice - The Ultimate Algorithm Pattern Taxonomy
+# DSA Practice - The Algorithm Pattern Taxonomy
 
 > **A comprehensive, hierarchically-organized collection of Data Structures & Algorithms patterns for technical interview preparation and competitive programming mastery.**
 
