@@ -1,78 +1,136 @@
-# Data Structure & Algorithm Pattern Taxonomy
+# DSA Practice - The Ultimate Algorithm Pattern Taxonomy
 
-This directory contains categorizations of common algorithm patterns and techniques organized by type. Each taxonomy file provides a comprehensive breakdown of a specific pattern, including:
+> **A comprehensive, hierarchically-organized collection of Data Structures & Algorithms patterns for technical interview preparation and competitive programming mastery.**
 
-- Hierarchical organization of sub-patterns and variants
-- Descriptions of when and how to apply each technique
-- Example LeetCode problems that demonstrate each pattern
-- Cross-references to related patterns
+[![GitHub stars](https://img.shields.io/github/stars/Yassir-aykhlf/DSA-Practice)](https://github.com/Yassir-aykhlf/DSA-Practice/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Yassir-aykhlf/DSA-Practice)](https://github.com/Yassir-aykhlf/DSA-Practice/network)
+[![GitHub issues](https://img.shields.io/github/issues/Yassir-aykhlf/DSA-Practice)](https://github.com/Yassir-aykhlf/DSA-Practice/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Taxonomies
+## What's in This Repository?
 
-### Core Data Structures
-- [[Linked List Pattern]] - Linear collections with efficient insertions and deletions (~75+ problems)
-- [[Hash Table]] - O(1) lookup, insertion, and deletion operations (~150+ problems)
-- [[Stack & Queue Pattern]] - LIFO and FIFO data structures for ordered processing (~100+ problems)
-- [[Heap & Priority Queue Pattern]] - Efficiently finding extreme values (~50+ problems)
-- [[Trie Pattern]] - Specialized tree structures for string operations (~40+ problems)
+- **19 Complete Pattern Taxonomies** - Every major algorithm pattern broken down into learnable sub-patterns
+- **1000+ LeetCode Problems Mapped** - Problems organized by specific techniques, not just random difficulty
+- **Hierarchical Learning Path** - From fundamentals to advanced techniques with clear progression
+- **Pattern Interconnections** - Understand how algorithms relate and build upon each other
+- **Interview-Focused** - Prioritized by real interview frequency and importance
 
-### Fundamental Algorithms
-- [[Binary Search]] - Efficient searching in sorted collections (~100+ problems)
-- [[Two Pointers]] - Using multiple pointers to optimize array/list operations (~100+ problems)
-- [[Traversal Algorithms Pattern]] - Systematically exploring data structures (DFS: ~125+ problems, BFS: ~70+ problems)
-- [[Union Find Pattern]] - Managing disjoint sets efficiently (~30+ problems)
+---
 
-### Advanced Algorithms
-- [[Dynamic Programming Pattern]] - Breaking complex problems into simpler subproblems (~240+ problems)
-- [[Backtracking Pattern]] - Building solutions incrementally with trial and error (~50+ problems)
-- [[Greedy Algorithms Pattern]] - Making locally optimal choices (~100+ problems)
-- [[Bit Manipulation Pattern]] - Working with binary representation (~130 problems)
+## **Learning Roadmap**
 
-## How to Use This Taxonomy
+### **Tier 1: Foundation Patterns** *(Start Here)*
+Master these first - they're the building blocks for everything else:
 
-1. **Identify the pattern**: When faced with a new problem, try to recognize which general pattern it belongs to
-2. **Find the specific sub-pattern**: Navigate to the appropriate category to understand variations and implementations
-3. **Study similar problems**: Review the linked example problems to understand practical applications
-4. **Look for cross-pattern solutions**: Some problems can be solved with multiple approaches
+| Pattern | Problems | Why Essential |
+|---------|----------|---------------|
+| [Two Pointers](Taxonomies/Tier%201/Two%20Pointers.md) | 100+ | Simple technique, immediate wins, builds pattern recognition |
+| [Hash Table](Taxonomies/Tier%201/Hash%20Table.md) | 150+ | O(1) operations, foundation for optimization |
+| [Binary Search](Taxonomies/Tier%201/Binary%20Search.md) | 100+ | Logical thinking, extends beyond just searching |
+| [Traversal Algorithms](Taxonomies/Tier%201/Traversal%20Algorithms%20Pattern.md) | 195+ | Essential for trees/graphs, recursive thinking |
+| [Dynamic Programming](Taxonomies/Tier%201/Dynamic%20Programming.md) | 240+ | Highest ROI pattern, most complex problems |
 
-## Pattern Selection Guide
+### **Tier 2: Core Algorithms** *(After Tier 1)*
+Advanced patterns that build on foundations:
 
-- **Arrays/Strings**: Start with Two Pointers and Sliding Window
-- **Searching**: Master Binary Search for sorted collections and optimization problems
-- **Trees/Graphs**: Focus on Traversal Algorithms (DFS/BFS) and Union Find
-- **Optimization Problems**: Study Dynamic Programming, Greedy, and Binary Search on answer space
-- **Combinatorial Problems**: Concentrate on Backtracking and Bit Manipulation
-- **Efficiency Concerns**: Hash Table techniques are essential for O(1) lookups
+| Pattern | Problems | Focus Area |
+|---------|----------|------------|
+| [Linked List](Taxonomies/Tier%202/7.%20Linked%20List.md) | 75+ | Pointer manipulation, two-pointer applications |
+| [Stack & Queue](Taxonomies/Tier%202/Stack%20and%20Queue.md) | 100+ | LIFO/FIFO operations, parsing, BFS/DFS |
+| [Backtracking](Taxonomies/Tier%202/8.%20Backtracking.md) | 50+ | Combinatorial generation, constraint satisfaction |
+| [Greedy Algorithms](Taxonomies/Tier%202/Greedy%20Algorithms.md) | 100+ | Optimization through local choices |
+| [Heap Priority Queue](Taxonomies/Tier%202/Heap%20Priority%20Queue.md) | 50+ | Top-K problems, scheduling, graph algorithms |
 
-## Study Priority Based on Problem Frequency
+### **Tier 3: Specialized Patterns**
+| Pattern | Description |
+|---------|-------------|
+| [Bit Manipulation](Taxonomies/Tier%203/Bit%20Manipulation.md) | Binary operations, XOR tricks, bitmask DP |
+| [Prefix Sum](Taxonomies/Tier%203/Prefix%20Sum.md) | Range queries, subarray problems |
+| [Trie](Taxonomies/Tier%203/Trie.md) | String processing, prefix matching |
+| [Union Find](Taxonomies/Tier%203/Union%20Find.md) | Graph connectivity, dynamic components |
 
-Based on the distribution of problems on LeetCode, here's a suggested study order:
+### **Tier 4: Advanced Techniques**
+| Pattern | Description |
+|---------|-------------|
+| [Combinatorics & Number Theory](Taxonomies/Tier%204/Combinatorics%20and%20Number%20Theory.md) | Mathematical algorithms, game theory |
+| [Design Patterns](Taxonomies/Tier%204/Design%20Pattern.md) | System design, custom data structures |
+| [Divide & Conquer](Taxonomies/Tier%204/Divide%20and%20Conquer.md) | Recursive problem decomposition |
+| [Segment Tree & Fenwick Tree](Taxonomies/Tier%204/Segment%20Tree%20and%20Fenwick%20Tree.md) | Advanced range queries |
+| [Sorting Algorithms](Taxonomies/Tier%204/Sorting%20Algorithms.md) | All sorting paradigms and applications |
 
-### High Priority (100+ problems each)
-1. Dynamic Programming ✅DONE
-2. Hash Table ✅DONE
-3. Graph & Tree Traversals (DFS/BFS) ✅DONE
-4. Binary Search ✅DONE
-5. Two Pointers ✅DONE
+---
 
-### Medium Priority (50-100 problems each)
-1. Stack & Queue ✅DONE
-2. Heap & Priority Queue ✅DONE
-3. Backtracking ✅DONE
-4. Linked List ✅DONE
-5. Greedy Algorithms ✅DONE
+### **For Each Pattern:**
+1. **Study the taxonomy** - Understand the hierarchical breakdown
+2. **Start with basics** - Master fundamental sub-patterns first  
+3. **Implement examples** - Use provided problem mappings
+4. **Practice variations** - Work through the pattern tree
+5. **Combine patterns** - Use cross-references to build complex solutions
 
-### Specialized Topics (fewer problems but important for interviews)
-1. Bit Manipulation ✅DONE
-2. Trie Algorithms ✅DONE
-3. Union Find ✅DONE
-4. Segment Tree / Binary Indexed Tree ✅DONE
+---
 
-## Contributing
+## **Contributing**
 
-To add new patterns or improve existing taxonomies:
+We welcome contributions! Here's how you can help:
 
-1. Follow the established format for consistency
-2. Include problem references with LeetCode numbers when available
-3. Add clear descriptions for each category
-4. Create cross-references to related patterns where appropriate
+- **Report Issues**: Found a problem mapping or explanation issue?
+- **Suggest Improvements**: Ideas for better organization or missing patterns?
+- **Add Examples**: More code implementations for specific patterns?
+- **Update Problem Links**: Help keep LeetCode problem references current
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+---
+
+## **Additional Resources**
+
+- [Algorithm Templates](Taxonomies/Algorithm_Templates.md) - Ready-to-use code templates
+- [Algorithm Relationships](Taxonomies/Algorithm_Relationships.md) - Visual pattern connections
+- [Problem Bank](Taxonomies/Problem_Bank.md) - 1000+ problems by pattern
+- [Pattern Selection Guide](Taxonomies/README.md) - Detailed study recommendations
+
+---
+
+## **Repository Stats**
+
+- **19 Complete Pattern Taxonomies** 
+- **1000+ LeetCode Problems Mapped**
+- **100,000+ Lines of Documentation**
+- **4-Tier Difficulty Progression**
+- **Cross-Pattern Relationship Mapping**
+
+---
+
+## ⭐ **Star This Repository**
+
+If this helps your interview preparation or competitive programming journey, please ⭐ **star this repository** to help others discover it!
+
+---
+
+## **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## **Get Started Now**
+
+1. **Star this repository**
+2. **Start with [Two Pointers](Taxonomies/Tier%201/Two%20Pointers.md)**
+3. **Practice the mapped problems**
+4. **Track your progress through the tiers**
+5. **Land your dream job!**
+
+---
+
+<div align="center">
+
+**[ Start with Tier 1 Patterns](Taxonomies/Tier%201/) • [Browse All Patterns](Taxonomies/)**
+
+---
+
+**Built with ❤️ for the programming community**
+
+Happy Coding!
+
+</div>
