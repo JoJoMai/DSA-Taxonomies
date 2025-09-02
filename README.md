@@ -2,9 +2,9 @@
 
 > **A comprehensive, hierarchically-organized collection of Data Structures & Algorithms patterns for technical interview preparation and competitive programming mastery.**
 
-[![GitHub stars](https://img.shields.io/github/stars/Yassir-aykhlf/DSA-Taxonomies))](https://github.com/Yassir-aykhlf/DSA-Practice/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Yassir-aykhlf/DSA-Taxonomies)](https://github.com/Yassir-aykhlf/DSA-Practice/network)
-[![GitHub issues](https://img.shields.io/github/issues/Yassir-aykhlf/DSA-Taxonomies)](https://github.com/Yassir-aykhlf/DSA-Practice/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Yassir-aykhlf/DSA-Taxonomies)](https://github.com/Yassir-aykhlf/DSA-Taxonomies/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Yassir-aykhlf/DSA-Taxonomies)](https://github.com/Yassir-aykhlf/DSA-Taxonomies/network)
+[![GitHub issues](https://img.shields.io/github/issues/Yassir-aykhlf/DSA-Taxonomies)](https://github.com/Yassir-aykhlf/DSA-Taxonomies/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## What's in This Repository?
@@ -24,39 +24,39 @@ Master these first - they're the building blocks for everything else:
 
 | Pattern | Problems | Why Essential |
 |---------|----------|---------------|
-| [Two Pointers](Taxonomies/Tier%201/Two%20Pointers.md) | 100+ | Simple technique, immediate wins, builds pattern recognition |
-| [Hash Table](Taxonomies/Tier%201/Hash%20Table.md) | 150+ | O(1) operations, foundation for optimization |
-| [Binary Search](Taxonomies/Tier%201/Binary%20Search.md) | 100+ | Logical thinking, extends beyond just searching |
-| [Traversal Algorithms](Taxonomies/Tier%201/Traversal%20Algorithms%20Pattern.md) | 195+ | Essential for trees/graphs, recursive thinking |
-| [Dynamic Programming](Taxonomies/Tier%201/Dynamic%20Programming.md) | 240+ | Highest ROI pattern, most complex problems |
+| [Two Pointers](Taxonomies/Tier%201/1.%20Two%20Pointers.md) | 100+ | Simple technique, immediate wins, builds pattern recognition |
+| [Hash Table](Taxonomies/Tier%201/2.%20Hash%20Table.md) | 150+ | O(1) operations, foundation for optimization |
+| [Stack & Queue](Taxonomies/Tier%201/3.%20Stack%20and%20Queue.md) | 100+ | LIFO/FIFO operations, parsing, BFS/DFS |
+| [Linked List](Taxonomies/Tier%201/4.%20Linked%20List.md) | 75+ | Pointer manipulation, two-pointer applications |
+| [Sorting Algorithms](Taxonomies/Tier%201/5.%20Sorting%20Algorithms.md) | 100+ | All sorting paradigms and applications |
 
 ### **Tier 2: Core Algorithms** *(After Tier 1)*
 Advanced patterns that build on foundations:
 
 | Pattern | Problems | Focus Area |
 |---------|----------|------------|
-| [Linked List](Taxonomies/Tier%202/7.%20Linked%20List.md) | 75+ | Pointer manipulation, two-pointer applications |
-| [Stack & Queue](Taxonomies/Tier%202/Stack%20and%20Queue.md) | 100+ | LIFO/FIFO operations, parsing, BFS/DFS |
-| [Backtracking](Taxonomies/Tier%202/8.%20Backtracking.md) | 50+ | Combinatorial generation, constraint satisfaction |
-| [Greedy Algorithms](Taxonomies/Tier%202/Greedy%20Algorithms.md) | 100+ | Optimization through local choices |
-| [Heap Priority Queue](Taxonomies/Tier%202/Heap%20Priority%20Queue.md) | 50+ | Top-K problems, scheduling, graph algorithms |
+| [Traversal Algorithms](Taxonomies/Tier%202/6.%20Traversal%20Algorithms%20Pattern.md) | 195+ | Essential for trees/graphs, recursive thinking |
+| [Binary Search](Taxonomies/Tier%202/7.%20Binary%20Search.md) | 100+ | Logical thinking, extends beyond just searching |
+| [Heap Priority Queue](Taxonomies/Tier%202/8.%20Heap%20Priority%20Queue.md) | 50+ | Top-K problems, scheduling, graph algorithms |
+| [Prefix Sum](Taxonomies/Tier%202/9.%20Prefix%20Sum.md) | 100+ | Range queries, subarray problems |
 
 ### **Tier 3: Specialized Patterns**
 | Pattern | Description |
 |---------|-------------|
-| [Bit Manipulation](Taxonomies/Tier%203/Bit%20Manipulation.md) | Binary operations, XOR tricks, bitmask DP |
-| [Prefix Sum](Taxonomies/Tier%203/Prefix%20Sum.md) | Range queries, subarray problems |
-| [Trie](Taxonomies/Tier%203/Trie.md) | String processing, prefix matching |
-| [Union Find](Taxonomies/Tier%203/Union%20Find.md) | Graph connectivity, dynamic components |
+| [Greedy Algorithms](Taxonomies/Tier%203/10.%20Greedy%20Algorithms.md) | Optimization through local choices |
+| [Backtracking](Taxonomies/Tier%203/11.%20Backtracking.md) | Combinatorial generation, constraint satisfaction |
+| [Dynamic Programming](Taxonomies/Tier%203/12.%20Dynamic%20Programming.md) | Highest ROI pattern, most complex problems |
+| [Divide & Conquer](Taxonomies/Tier%203/13.%20Divide%20and%20Conquer.md) | Recursive problem decomposition |
 
 ### **Tier 4: Advanced Techniques**
 | Pattern | Description |
 |---------|-------------|
-| [Combinatorics & Number Theory](Taxonomies/Tier%204/Combinatorics%20and%20Number%20Theory.md) | Mathematical algorithms, game theory |
-| [Design Patterns](Taxonomies/Tier%204/Design%20Pattern.md) | System design, custom data structures |
-| [Divide & Conquer](Taxonomies/Tier%204/Divide%20and%20Conquer.md) | Recursive problem decomposition |
-| [Segment Tree & Fenwick Tree](Taxonomies/Tier%204/Segment%20Tree%20and%20Fenwick%20Tree.md) | Advanced range queries |
-| [Sorting Algorithms](Taxonomies/Tier%204/Sorting%20Algorithms.md) | All sorting paradigms and applications |
+| [Trie](Taxonomies/Tier%204/14.%20Trie.md) | String processing, prefix matching |
+| [Union Find](Taxonomies/Tier%204/15.%20Union%20Find.md) | Graph connectivity, dynamic components |
+| [Bit Manipulation](Taxonomies/Tier%204/16.%20Bit%20Manipulation.md) | Binary operations, XOR tricks, bitmask DP |
+| [Segment Tree & Fenwick Tree](Taxonomies/Tier%204/17.%20Segment%20Tree%20and%20Fenwick%20Tree.md) | Advanced range queries |
+| [Combinatorics & Number Theory](Taxonomies/Tier%204/18.%20Combinatorics%20and%20Number%20Theory.md) | Mathematical algorithms, game theory |
+| [Design Patterns](Taxonomies/Tier%204/19.%20Design%20Pattern.md) | System design, custom data structures |
 
 ---
 
@@ -78,16 +78,12 @@ We welcome contributions! Here's how you can help:
 - **Add Examples**: More code implementations for specific patterns?
 - **Update Problem Links**: Help keep LeetCode problem references current
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
 ---
 
 ## **Additional Resources**
 
 - [Algorithm Templates](Taxonomies/Algorithm_Templates.md) - Ready-to-use code templates
 - [Algorithm Relationships](Taxonomies/Algorithm_Relationships.md) - Visual pattern connections
-- [Problem Bank](Taxonomies/Problem_Bank.md) - 1000+ problems by pattern
-- [Pattern Selection Guide](Taxonomies/README.md) - Detailed study recommendations
 
 ---
 
@@ -109,7 +105,7 @@ If this helps your interview preparation or competitive programming journey, ple
 
 <div align="center">
 
-**[ Start with Tier 1 Patterns](Taxonomies/Tier%201/) • [Browse All Patterns](Taxonomies/)**
+**[Start with Tier 1 Patterns](Taxonomies/Tier%201/) • [Browse All Patterns](Taxonomies/)**
 
 ---
 
