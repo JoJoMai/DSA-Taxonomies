@@ -66,8 +66,7 @@ Based on the distribution of problems on LeetCode, here's a suggested study orde
 1. Bit Manipulation ✅DONE
 2. Trie Algorithms ✅DONE
 3. Union Find ✅DONE
-4. Segment Tree / Binary Indexed Tree
-5. Advanced Graph Algorithms
+4. Segment Tree / Binary Indexed Tree ✅DONE
 
 ## Contributing
 
