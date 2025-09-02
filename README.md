@@ -2,9 +2,9 @@
 
 > **A comprehensive, hierarchically-organized collection of Data Structures & Algorithms patterns for technical interview preparation and competitive programming mastery.**
 
-[![GitHub stars](https://img.shields.io/github/stars/Yassir-aykhlf/DSA-Practice)](https://github.com/Yassir-aykhlf/DSA-Practice/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Yassir-aykhlf/DSA-Practice)](https://github.com/Yassir-aykhlf/DSA-Practice/network)
-[![GitHub issues](https://img.shields.io/github/issues/Yassir-aykhlf/DSA-Practice)](https://github.com/Yassir-aykhlf/DSA-Practice/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Yassir-aykhlf/DSA-Taxonomies))](https://github.com/Yassir-aykhlf/DSA-Practice/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Yassir-aykhlf/DSA-Taxonomies)](https://github.com/Yassir-aykhlf/DSA-Practice/network)
+[![GitHub issues](https://img.shields.io/github/issues/Yassir-aykhlf/DSA-Taxonomies)](https://github.com/Yassir-aykhlf/DSA-Practice/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## What's in This Repository?
