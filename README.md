@@ -107,22 +107,6 @@ If this helps your interview preparation or competitive programming journey, ple
 
 ---
 
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## **Get Started Now**
-
-1. **Star this repository**
-2. **Start with [Two Pointers](Taxonomies/Tier%201/Two%20Pointers.md)**
-3. **Practice the mapped problems**
-4. **Track your progress through the tiers**
-5. **Land your dream job!**
-
----
-
 <div align="center">
 
 **[ Start with Tier 1 Patterns](Taxonomies/Tier%201/) • [Browse All Patterns](Taxonomies/)**
