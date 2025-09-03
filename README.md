@@ -60,6 +60,11 @@ Advanced patterns that build on foundations:
 
 ---
 
+## **Visualize Cross-Pattern Relationships**
+![Screenshot of the obsidian graph.](Graph.png)
+
+---
+
 ### **For Each Pattern:**
 1. **Study the taxonomy** - Understand the hierarchical breakdown
 2. **Start with basics** - Master fundamental sub-patterns first  
