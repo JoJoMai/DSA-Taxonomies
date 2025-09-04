@@ -1,6 +1,6 @@
 # Algorithm Relationship & Selection Guide
 
-This comprehensive guide helps you understand how different algorithm patterns relate to each other, when to use them, and how to combine them effectively to solve complex problems.
+This guide helps you understand how different algorithm patterns relate to each other, when to use them, and how to combine them effectively to solve complex problems.
 
 ## Quick Pattern Selection
 
@@ -274,39 +274,6 @@ Level 4: Advanced Optimizations
 • Parallel/concurrent approaches
 • Hardware-specific optimizations
 ```
-
-## Cross-Reference to Local Implementations
-
-### Available Code Examples in This Repository
-
-#### Two Pointers (`Arrays/Two-Pointer/`)
-- **Opposite Direction**: 
-  - [`3Sum.cpp`](../Arrays/Two-Pointer/Opposite%20Direction%20Pointers/Multi-Element%20Extensions/3Sum.cpp) - Classic O(n²) solution
-  - [`ContainerWithMostWater.cpp`](../Arrays/Two-Pointer/Opposite%20Direction%20Pointers/Optimal%20Pair%20Finding/ContainerWithMostWater.cpp) - Area optimization
-  - [`2Sum.cpp`](../Arrays/Two-Pointer/Opposite%20Direction%20Pointers/Condition%20Matching/Target%20Sum%20Variants/2Sum.cpp) - Multiple approaches comparison
-
-- **Same Direction**:
-  - [`Number-Of-Matching-Subsequences.js`](../Arrays/Two-Pointer/Same%20Direction%20Pointers/Subsequence%20Matching/Number-Of-Matching-Subsequences.js)
-
-#### Binary Search (`Binary Search/`)
-- [`BinarySearch.cpp`](../Binary%20Search/BinarySearch.cpp) - Standard implementation
-- [`LowerBound.cpp`](../Binary%20Search/LowerBound.cpp) - Finding insertion position
-- [`SearchInsertPosition.cpp`](../Binary%20Search/SearchInsertPosition.cpp) - Modified binary search
-
-#### Sorting Algorithms (`Sorting/`)
-- **Divide & Conquer**: [`MergeSort.cpp`](../Sorting/Divide%20and%20conquer/MergeSort.cpp), [`Quicksort.cpp`](../Sorting/Divide%20and%20conquer/Quicksort.cpp)
-- **Brute Force**: [`BubbleSort.cpp`](../Sorting/Brute-Force%20Sorting/BubbleSort.cpp), [`InsertionSort.cpp`](../Sorting/Brute-Force%20Sorting/InsertionSort.cpp)
-
-#### Dynamic Programming (`Dynamic programming/`)
-- [`MaximumSubarray.cpp`](../Dynamic%20programming/MaximumSubarray.cpp) - Kadane's algorithm
-
-#### Hash Tables (`Hashing/`)
-- [`LongestConsecutiveSequence.cpp`](../Hashing/LongestConsecutiveSequence.cpp) - Hash set optimization
-
-### Pattern Templates Reference
-- See [`Algorithm_Templates.md`](./Algorithm_Templates.md) for ready-to-use code templates
-- See [`Problem_Bank.md`](./Problem_Bank.md) for categorized problem lists
-- See [`Tier 1/`](./Tier%201/) through [`Tier 4/`](./Tier%204/) for detailed pattern explanations
 
 ## Real-World Problem Examples
 
