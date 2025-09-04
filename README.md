@@ -61,7 +61,7 @@ Advanced patterns that build on foundations:
 ---
 
 ## **Visualize Cross-Pattern Relationships**
-![Screenshot of the obsidian graph.](Graph.png)
+![Screenshot of the obsidian graph.](Graph_.png)
 
 ---
 
