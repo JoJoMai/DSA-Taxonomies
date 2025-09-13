@@ -2,9 +2,9 @@
 └── [String Pattern Matching]
     │   / Finding patterns in strings /
     │
-    ├── Problem: "438. Find All Anagrams in a String"
-    ├── Problem: "567. Permutation in String"
-    └── Problem: "1100. Find K-Length Substrings With No Repeated Characters"
+    ├── Problem: "[[438. Find All Anagrams in a String]]"
+    ├── Problem: "[[567. Permutation in String]]"
+    └── Problem: "[[1100. Find K-Length Substrings With No Repeated Characters]]"
 
 └── [Trie String Pattern Matching]
     │   / Finding patterns in text /
